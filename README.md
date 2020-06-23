@@ -1,6 +1,8 @@
 # Realme-AutoBuy
 This script will help you buy your favourite product from the sale by auto buying it for you
 
+<h4>THIS IS ONLY FOR EDUCATIONAL PURPOSE</h4>
+
 ## ***Requirements***
 
 - Python 3
