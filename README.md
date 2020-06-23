@@ -47,6 +47,10 @@ Now script will send OTP to your number(added in address.txt), verify it with co
 ***Run script***
 
     python run.py
+    
+***Update Address using cookie file***
+
+    python cookie.py -c cookie_file_name.txt
 
 ## ***Module Installation***
 
