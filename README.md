@@ -1,6 +1,8 @@
 # Realme-AutoBuy
 This script will help you buy your favourite product from the sale by auto buying it for you
 
+<h4>THIS IS ONLY FOR EDUCATIONAL PURPOSE</h4>
+
 ## ***Requirements***
 
 - Python 3
@@ -45,6 +47,10 @@ Now script will send OTP to your number(added in address.txt), verify it with co
 ***Run script***
 
     python run.py
+    
+***Update Address using cookie file***
+
+    python cookie.py -c cookie_file_name.txt
 
 ## ***Module Installation***
 
